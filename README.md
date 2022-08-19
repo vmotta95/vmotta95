@@ -1,5 +1,5 @@
 <header>
-    <h1 align="center">👋🏻 Hi there!  Me chamo Victor! </h1>
+    <h1 align="center">👋🏻 Oi!  Me chamo Victor! </h1>
      <div align="center">
       Sou ecólogo de formação e atulamente estou em um processo de transição de carreira.
       Formado na Unesp em ecologia pós graduado pela Unip em educação ambiental e sustentabilidade estou
