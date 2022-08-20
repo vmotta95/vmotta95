@@ -7,7 +7,7 @@
       Escolhi o Bootcamp da Labenu para me ajudar nessa jornada, terei mais de 1000 horas de conteúdo, experiências e projetos. 
       Guiadas por metologias ágeis como Scrum e kanban.
       <div/> 
-    <h2 align=:"center"> Contato: </h2>
+    <h2 align=:"center"> Contato </h2>
 <a href="mailto:vmotta95@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
        <a href="https://www.linkedin.com/in/vmotta95/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
        <a href="https://www.instagram.com/v_motta/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
