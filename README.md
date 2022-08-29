@@ -1,8 +1,7 @@
 <header>
     <h1 align="center">👋🏻 Oi!  Me chamo Victor! </h1>
      <div align="center">
-      Sou ecólogo de formação e atulamente estou em um processo de transição de carreira.
-      Me formei na Unesp em Ecologia e sou pós graduado pela Unip em educação ambiental e sustentabilidade.
+      Estou a caminho para me tornar um desenvolvedor full-stack, atualmente estou me apronfudando no front-end.
       Escolhi o Bootcamp da Labenu para me ajudar nessa jornada. Terei mais de 1000 horas de conteúdo, experiências e projetos. 
      O curso é guiado por metodologias ágeis como Scrum e Kanban, além de direcionar aulas focadas em expêriencia profissional.
       <div/> 
