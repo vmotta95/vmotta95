@@ -1,9 +1,9 @@
 <header>
     <h1 align="center">👋🏻 Oi!  Me chamo Victor! </h1>
      <div align="center">
-      Estou a caminho para me tornar um desenvolvedor full-stack, atualmente estou me apronfudando no front-end.
-      Escolhi o Bootcamp da Labenu para me ajudar nessa jornada. Terei mais de 1000 horas de conteúdo, experiências e projetos. 
-     O curso é guiado por metodologias ágeis como Scrum e Kanban, além de direcionar aulas focadas em expêriencia profissional.
+Sou Ecólogo de formação e por mais antagônico que pareça, sou fascinado por tecnologia e estou em um processo de transição de carreira.
+      Estou trilhando um caminho para me tornar um desenvolvedor full-stack, atualmente estou me apronfudando no front-end.
+    
       <div/> 
     <h2 align=:"center"> Contato </h2>
 <a href="mailto:vmotta95@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
