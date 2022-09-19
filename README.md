@@ -1,7 +1,7 @@
 <header>
     <h1 align="center">👋🏻 Oi!  Me chamo Victor! </h1>
      <div align="center">
-Sou Ecólogo de formação e por mais antagônico que pareça, sou fascinado por tecnologia e estou em um processo de transição de carreira.
+Sou Ecólogo de formação e por mais antagônico que pareça, sou fascinado por tecnologia. Por esse motivo, iniciei meu processo de transição de carreira!
       Estou trilhando um caminho para me tornar um desenvolvedor full-stack, atualmente estou me apronfudando no front-end.
       <div/> 
     <h2 align=:"center"> Contato </h2>
