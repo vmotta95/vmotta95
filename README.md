@@ -7,7 +7,7 @@
 <br>
 <br>
   <p>
-  <b>My name is Victor Motta. I'm Front-end Developer Jr from Brazil.</b>
+  <b>My name is Victor Motta. I'm Front-end Developer Jr. from Brazil.</b>
   <br>
   <br>
   🔬 I'm currently studying for become a Full-Stack Developer.
