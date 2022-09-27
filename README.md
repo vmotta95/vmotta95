@@ -12,7 +12,7 @@
   <br>
   🔬 I'm currently studying for become a Full-Stack Developer.
   <br>
-  🎓 II have a degree in ecology from UNESP
+  🎓 I have a degree in ecology from UNESP
   <br>
   🎓 I'm studying at Labenu's tech bootcamp
   <br>
