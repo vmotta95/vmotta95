@@ -7,9 +7,11 @@
 <br>
 <br>
   <p>
-  <b>My name is Victor Motta. I'm Front-end Developer Jr. from Brazil.</b>
+  <b>Hy! My name is Victor Motta. 
+    <br>I'm Front-end Developer Jr ⚛.
+   </b>
   <br>
-  <br>
+  <br>  
   🔬 I'm currently studying for become a Full-Stack Developer.
   <br>
   🎓 I have a degree in ecology from UNESP
@@ -20,11 +22,10 @@
   <br>
   📚 I’m currently learning how to build E-Commerce Website with React
    </p>
-   <img src ="https://user-images.githubusercontent.com/102388553/191148026-00ff651a-c21c-4993-a9d3-92420b131c65.gif" width="700" height="400"/>
       <div/> 
 </header>
 <div align="center">
-<h3> Languages/Frameworks I'm good at: <h3>
+<h3> Languages/Frameworks I'm good at ⌛ <h3>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
@@ -35,13 +36,16 @@
 </div>
 
 <div align="center">
-<h3> Languages/Frameworks I'm learning: </h3>
+<h3> Languages/Frameworks I'm learning ⏳ </h3>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"  width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40" />
+    
+<img src ="https://user-images.githubusercontent.com/102388553/191148026-00ff651a-c21c-4993-a9d3-92420b131c65.gif" width="700" height="400"/>
+    
 </div>
 <footer>
 <div align="center">
-    <h2>My github stats </h2>
+    <h2>My github stats ⚙</h2>
 <a href="https://github.com/vmotta95">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vmotta95&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
 <br>
