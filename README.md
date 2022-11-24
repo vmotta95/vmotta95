@@ -20,7 +20,7 @@
   <br>
   💻 I love work in team and improve my skills
   <br>
-  📚 I’m currently learning how to build E-Commerce Website with React
+  📚 I’m currently learning MySql
    </p>
       <div/> 
 </header>
