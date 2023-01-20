@@ -18,9 +18,9 @@
   <br>
   🎓 I'm studying at Labenu's tech bootcamp
   <br>
-  💻 I love work in team and improve my skills
+  💻 I love work in team and improving my skills
   <br>
-  📚 I’m currently learning MySql
+  📚 I’m currently learning backend
    </p>
       <div/> 
 </header>
